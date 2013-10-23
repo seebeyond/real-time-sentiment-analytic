@@ -1,0 +1,55 @@
+2013-10-04 22:52:06.741 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: US.
+2013-10-04 22:52:08.713 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: US.
+2013-10-04 22:52:09.541 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: US.
+2013-10-04 22:52:13.511 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: ON.
+2013-10-04 22:52:14.454 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: US.
+2013-10-04 22:52:16.728 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: US.
+2013-10-04 22:52:17.623 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: AS.
+2013-10-04 22:52:18.949 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: ON.
+2013-10-04 22:52:19.936 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: US.
+2013-10-04 22:52:23.170 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: NL.
+2013-10-04 22:52:24.239 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: TA.
+2013-10-04 22:52:27.573 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: US.
+2013-10-04 22:52:29.864 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: US.
+2013-10-04 22:52:30.024 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: 05.
+2013-10-04 22:52:30.798 INFO  {Thread-16} [o.v.s.s.bolts.CalculateSentimentBolt.logSentimentsOfStates:159] -- At Fri Oct 04 22:52:30 IST 2013, total # of States received in run#1: 35 
+2013-10-04 22:52:30.801 INFO  {Thread-16} [o.v.s.s.bolts.CalculateSentimentBolt.logSentimentsOfStates:161] -- 
+	FL ==> 12
+	CA ==> 11
+	CO ==> 10
+	OH ==> 7
+	WV ==> 6
+	KS ==> 5
+	TN ==> 4
+	WA ==> 4
+	MA ==> 3
+	NC ==> 3
+	SC ==> 2
+	WI ==> 2
+	NY ==> 1
+	OK ==> 1
+	TX ==> 1
+	AL ==> 0
+	AZ ==> 0
+	CT ==> 0
+	IA ==> 0
+	MI ==> 0
+	MN ==> 0
+	MS ==> 0
+	NJ ==> 0
+	NV ==> 0
+	UT ==> 0
+	VT ==> 0
+	GA ==> -1
+	IL ==> -1
+	MO ==> -1
+	IN ==> -2
+	KY ==> -2
+	VA ==> -2
+	NE ==> -3
+	OR ==> -3
+	PA ==> -3
+
+2013-10-04 22:52:34.808 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: US.
+2013-10-04 22:52:38.295 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: EC.
+2013-10-04 22:52:38.550 INFO  {Thread-18} [o.v.s.s.bolts.LocateStateBolt.getStateFromTweet:92] -- Skipping invalid State: ÓN.
